@@ -1,0 +1,16 @@
+# ninja log v6
+15	1609	7411117225142487	CMakeFiles/RubiksCube.dir/Model/PatternDatabases/CornerDBMaker.cpp.obj	f509ce02bc14c0af
+7	1554	7411083460054284	CMakeFiles/RubiksCube.dir/Model/PatternDatabase/RubiksCube1dArray.cpp.obj	35fa76ec92ad5d44
+13	1572	7411083460117218	CMakeFiles/RubiksCube.dir/Model/PatternDatabase/RubiksCube3dArray.cpp.obj	9f76f0f582d90459
+62	1466	7411093605813040	CMakeFiles/RubiksCube.dir/Model/PatternDatabases/NibbleArray.cpp.obj	4d662117931581cb
+21	1713	7411110515908078	CMakeFiles/RubiksCube.dir/Model/PatternDatabases/CornerPatternDatabase.cpp.obj	c1b413253e48e6d4
+19	1593	7411083460175637	CMakeFiles/RubiksCube.dir/Model/PatternDatabase/RubiksCubeBitboard.cpp.obj	5899806fadea1c8e
+56	223	7411093605747127	CMakeFiles/RubiksCube.dir/Model/PatternDatabases/math.cpp.obj	4a1bbac8b2d94c11
+27	1681	7411110515967317	CMakeFiles/RubiksCube.dir/Model/PatternDatabases/PatternDatabase.cpp.obj	b75cd3376da060e
+20	1911	7411142674428147	CMakeFiles/RubiksCube.dir/main.cpp.obj	ecf14368f7a620ee
+11	1448	7411082063326764	CMakeFiles/RubiksCube.dir/Model/PatternDatabase/RubiksCube.cpp.obj	e7abd3f35d32900
+1593	1741	7411083475918908	RubiksCube.exe	eb27408aba115b47
+3	324	7411145647926143	build.ninja	3b708f23fae7c541
+8	1451	7411144677346020	CMakeFiles/RubiksCube.dir/Model/main.cpp.obj	a4472129d180ddee
+11	342	7411145647926143	build.ninja	3b708f23fae7c541
+25	255	7411145649057949	RubiksCube.exe	eb27408aba115b47
